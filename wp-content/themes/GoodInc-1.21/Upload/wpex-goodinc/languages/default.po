@@ -1,0 +1,1201 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Board\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-01 15:11-0800\n"
+"PO-Revision-Date: 2013-09-01 15:11-0800\n"
+"Last-Translator: Authentic <support@authenticthemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "404 Error"
+msgstr ""
+
+#: ../404.php:16
+msgid "Unfortunately the page you were trying to access does not exist."
+msgstr ""
+
+#: ../archive.php:15 ../date.php:20 ../templates/authors.php:46
+msgid "articles"
+msgstr ""
+
+#: ../author-bio.php:15
+msgid "Written by "
+msgstr ""
+
+#: ../author-bio.php:19
+msgid "Read other posts by"
+msgstr ""
+
+#: ../author-bio.php:23
+msgid "Website:"
+msgstr ""
+
+#: ../author-bio.php:23 ../templates/authors.php:50
+msgid "Visit Website"
+msgstr ""
+
+#: ../author.php:17
+msgid "Posts written by"
+msgstr ""
+
+#: ../comments.php:24 ../content-audio.php:47 ../content-gallery.php:111
+#: ../content-image.php:64 ../content-video.php:53 ../content.php:63
+#: ../single.php:44
+msgid "0 Comments"
+msgstr ""
+
+#: ../comments.php:24 ../content-audio.php:47 ../content-gallery.php:111
+#: ../content-image.php:64 ../content-video.php:53 ../content.php:63
+#: ../single.php:44
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:24 ../content-audio.php:47 ../content-gallery.php:111
+#: ../content-image.php:64 ../content-video.php:53 ../content.php:63
+#: ../single.php:44
+msgid "% Comments"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:50
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../comments.php:51
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:59
+msgid "cancel reply"
+msgstr ""
+
+#: ../content-homepage-slider.php:101
+msgid "read more"
+msgstr ""
+
+#: ../content-image.php:39 ../content-link.php:33 ../content.php:38
+msgid "View Post"
+msgstr ""
+
+#: ../content-quote.php:16
+msgid "By"
+msgstr ""
+
+#: ../content-related-posts.php:67
+msgid "Related Articles"
+msgstr ""
+
+#: ../date.php:13 ../date.php:15 ../date.php:17
+msgid "Archive For"
+msgstr ""
+
+#: ../footer.php:38
+msgid "Copyright"
+msgstr ""
+
+#: ../header.php:57
+msgid "Browse"
+msgstr ""
+
+#: ../header.php:58
+msgid "Search"
+msgstr ""
+
+#: ../search.php:13
+msgid "Search Results For"
+msgstr ""
+
+#: ../search.php:16
+msgid "results"
+msgstr ""
+
+#: ../search.php:42
+msgid "There were no results found for that query. Please try again."
+msgstr ""
+
+#: ../searchform.php:10
+msgid "Type and hit enter to search..."
+msgstr ""
+
+#: ../single.php:65
+msgid "visit website"
+msgstr ""
+
+#: ../single.php:96
+msgid "Previous"
+msgstr ""
+
+#: ../single.php:97
+msgid "Next"
+msgstr ""
+
+#: ../admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr ""
+
+#: ../admin/front-end/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: ../admin/front-end/options.php:8 ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../admin/front-end/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: ../admin/front-end/options.php:28
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../admin/front-end/options.php:37
+msgid "Expand"
+msgstr ""
+
+#: ../admin/front-end/options.php:40
+msgid "Working..."
+msgstr ""
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:28
+msgid "Custom Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:29
+msgid "Use this field to upload your custom logo for use in the theme header"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:36
+msgid "Footer Logo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:37
+msgid "Upload your custom logo for the footer area. Leave blank to disable."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:44
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:45
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website's "
+"favicon."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:53
+msgid "Responsiveness"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:54
+msgid "Do you wish to enable or disable the responsive CSS for this theme?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:57
+#: ../admin/functions/functions.options.php:67
+#: ../admin/functions/functions.options.php:77
+#: ../admin/functions/functions.options.php:87
+#: ../admin/functions/functions.options.php:199
+#: ../admin/functions/functions.options.php:209
+#: ../admin/functions/functions.options.php:334
+#: ../admin/functions/functions.options.php:344
+#: ../admin/functions/functions.options.php:434
+#: ../admin/functions/functions.options.php:444
+#: ../admin/functions/functions.options.php:454
+#: ../admin/functions/functions.options.php:464
+#: ../admin/functions/functions.options.php:474
+msgid "Enable"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:58
+#: ../admin/functions/functions.options.php:68
+#: ../admin/functions/functions.options.php:78
+#: ../admin/functions/functions.options.php:88
+#: ../admin/functions/functions.options.php:200
+#: ../admin/functions/functions.options.php:210
+#: ../admin/functions/functions.options.php:335
+#: ../admin/functions/functions.options.php:345
+#: ../admin/functions/functions.options.php:435
+#: ../admin/functions/functions.options.php:445
+#: ../admin/functions/functions.options.php:455
+#: ../admin/functions/functions.options.php:465
+#: ../admin/functions/functions.options.php:475
+msgid "Disable"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:63
+msgid "Fixed Navigation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:64
+msgid "Do you wish the navigation to stay static when scrolling down the site?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:73
+msgid "Gallery Metabox"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:74
+msgid ""
+"Do you wish to enable or disable the gallery metabox. This is the metabox "
+"that displays your post image attachments under the post editor."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:83
+msgid "Retina Support"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:84
+msgid "Do you wish to enable or disable the built-in retina support?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:99
+msgid "Highlight"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:100
+#: ../admin/functions/functions.options.php:108
+#: ../admin/functions/functions.options.php:116
+#: ../admin/functions/functions.options.php:124
+#: ../admin/functions/functions.options.php:132
+#: ../admin/functions/functions.options.php:140
+#: ../admin/functions/functions.options.php:148
+#: ../admin/functions/functions.options.php:156
+#: ../admin/functions/functions.options.php:164
+#: ../admin/functions/functions.options.php:172
+#: ../admin/functions/functions.options.php:180
+msgid "Select a custom color."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:107
+msgid "Body Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:115
+msgid "Top Bar Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:123
+msgid "Top Bar Logo Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:131
+msgid "Menu Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:139
+msgid "Menu Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:147
+msgid "Menu Hover & Active Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:155
+msgid "Footer Bar Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:163
+msgid "Footer Bar Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:171
+msgid "Footer Background"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:179
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:187
+msgid "Footer Padding"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:188
+msgid "Enter your custom bottom padding for your footer."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:195
+msgid "Menu Icon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:196
+msgid "Do you wish to enable or disable the pin icon in the main menu?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:205
+msgid "Main Search Icon"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:206
+msgid "Do you wish to enable or disable the main search icon?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:223
+msgid "Logo Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:224
+msgid "Select your desired font family for your logo."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:229
+#: ../admin/functions/functions.options.php:242
+#: ../admin/functions/functions.options.php:255
+#: ../admin/functions/functions.options.php:268
+msgid "Font Preview Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:236
+msgid "Main Body Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:237
+msgid "Select your desired font family for your body text."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:249
+msgid "Menu Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:250
+msgid "Select your desired font family for your main navigation menu."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:262
+msgid "Headings Font"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:263
+msgid "Select your desired font family for your headings."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:277
+msgid "Sliders"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:285
+msgid "Image Slider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:291
+msgid "Slider Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:292
+msgid "Select posts category for your homepage slider."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:300
+#: ../admin/functions/functions.options.php:389
+msgid "Slides Count"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:301
+msgid "How many slides do you wish to display for the homepage slider?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:308
+msgid "Exclude Slider Category From Homepage?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:309
+msgid ""
+"Do you wish to exclude the category for the slider from the homepage recent "
+"posts area?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:312
+#: ../admin/functions/functions.options.php:401
+msgid "Yes"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:313
+#: ../admin/functions/functions.options.php:402
+msgid "No"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:318
+msgid "Animation"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:319
+msgid "Select your desired slider animation."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:330
+msgid "Auto Slideshow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:331
+msgid "Do you wish to enable or disable the automatic slideshow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:340
+msgid "Randomize Slideshow"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:341
+msgid "Do you wish to enable or disable random slide order."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:350
+msgid "Slideshow Speed"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:351
+msgid ""
+"Adjust the slideshow speed of your homepage slider. Time in milliseconds"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:361
+msgid "Slider Alternate"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:362
+msgid ""
+"Use this field to insert a shortcode or other HTML to replace the default "
+"flexslider"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:374
+msgid "Carousel"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:380
+msgid "Carousel Category"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:381
+msgid ""
+"Select posts category for your homepage carousel. This category must have at "
+"least 3 or nothing will display."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:390
+msgid "How many slides do you wish to display for the homepage carousel?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:397
+msgid "Exclude Carousel Category From Homepage?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:398
+msgid ""
+"Do you wish to exclude the category for the carousel from the homepage "
+"recent posts area?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:408
+msgid "Blog"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:413
+msgid "Pagination Style"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:414
+msgid "What pagination style do you want for your homepage and archives"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:422
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:423
+msgid "Enter a custom excerpt width. Default is 60 (words)"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:430
+msgid "Auto Excerpts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:431
+msgid "Select to enable or disable auto excerpts."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:440
+msgid "Featured Images On Standard Format Posts?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:441
+msgid "Display featured images on single blog posts?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:450
+msgid "Author Bio"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:451
+msgid "Display author bio at the bottom of standard posts?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:460
+msgid "Display Tags"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:461
+msgid "Display current post tags at the bottom of standard posts?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:470
+msgid "Related Posts"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:471
+msgid "Display related posts on standard posts?"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:482
+msgid "Social"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:487
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:488
+#: ../admin/functions/functions.options.php:496
+#: ../admin/functions/functions.options.php:504
+#: ../admin/functions/functions.options.php:512
+#: ../admin/functions/functions.options.php:520
+#: ../admin/functions/functions.options.php:528
+#: ../admin/functions/functions.options.php:536
+#: ../admin/functions/functions.options.php:544
+#: ../admin/functions/functions.options.php:552
+#: ../admin/functions/functions.options.php:560
+#: ../admin/functions/functions.options.php:568
+#: ../admin/functions/functions.options.php:576
+#: ../admin/functions/functions.options.php:584
+#: ../admin/functions/functions.options.php:592
+msgid "Enter the full URL to your social profile"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:495
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:503
+#: ../functions/social-output.php:26
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:511
+#: ../functions/social-output.php:30
+msgid "Dribbble"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:519
+#: ../functions/social-output.php:34
+msgid "Google Plus"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:527
+#: ../functions/social-output.php:38
+msgid "LinkedIn"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:535
+#: ../functions/social-output.php:46
+msgid "Flickr"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:543
+#: ../functions/social-output.php:42
+msgid "Behance"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:551
+#: ../functions/social-output.php:50
+msgid "Vimeo"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:559
+msgid "Youtube"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:567
+#: ../functions/social-output.php:58
+msgid "Forrst"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:575
+#: ../functions/social-output.php:62
+msgid "Github"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:583
+#: ../functions/social-output.php:66
+msgid "Instagram"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:591
+msgid "RSS"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:602
+#: ../functions/theme-setup.php:21
+msgid "Footer"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:607
+msgid "Copyright Text"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:608
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-link] [theme-"
+"link] [loginout-link] [blog-title] [blog-link] [the-year]"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:617
+msgid "Tracking"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:621
+msgid "Tracking Code"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:622
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:631
+msgid "Backup"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:636
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:640
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: ../admin/functions/functions.options.php:644
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: ../admin/functions/functions.options.php:648
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+
+#: ../functions/admin-columns.php:18
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:86
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:87
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:88
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:100
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:101
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/comments-callback.php:24
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments-callback.php:24 ../functions/comments-callback.php:49
+msgid "Edit"
+msgstr ""
+
+#: ../functions/comments-callback.php:54
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments-callback.php:64
+msgid "reply to comment"
+msgstr ""
+
+#: ../functions/excerpts.php:23
+msgid "continue reading"
+msgstr ""
+
+#: ../functions/load-more.php:109 ../functions/load-more.php:159
+msgid "Load More"
+msgstr ""
+
+#: ../functions/load-more.php:110
+msgid "Loading..."
+msgstr ""
+
+#: ../functions/pagination.php:72 ../functions/pagination.php:110
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions/pagination.php:75 ../functions/pagination.php:113
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions/recommend-plugins.php:89
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/recommend-plugins.php:102
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/social-output.php:18
+msgid "Follow Us"
+msgstr ""
+
+#: ../functions/social-output.php:22
+msgid "Facebook Us"
+msgstr ""
+
+#: ../functions/social-output.php:54
+msgid "Youtube Channel"
+msgstr ""
+
+#: ../functions/social-output.php:70
+msgid "RSS Feed"
+msgstr ""
+
+#: ../functions/theme-setup.php:20
+msgid "Main"
+msgstr ""
+
+#: ../functions/gallery-metabox/gallery-metabox.php:73
+msgid "Gallery Images"
+msgstr ""
+
+#: ../functions/gallery-metabox/gallery-metabox.php:140
+msgid "Edit Image"
+msgstr ""
+
+#: ../functions/gallery-metabox/gallery-metabox.php:143
+msgid "Remove Image"
+msgstr ""
+
+#: ../functions/gallery-metabox/gallery-metabox.php:172
+msgid "Manage Images"
+msgstr ""
+
+#: ../functions/gallery-metabox/gallery-metabox.php:178
+msgid "Refresh"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:13
+msgid "Page Settings"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:19 ../functions/meta/meta-post.php:19
+msgid "Post Layout"
+msgstr ""
+
+#: ../functions/meta/meta-page.php:21 ../functions/meta/meta-post.php:21
+msgid "Select your desired layout."
+msgstr ""
+
+#: ../functions/meta/meta-post.php:13
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:27
+msgid "Media Size"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:29
+msgid "Select your desired media size."
+msgstr ""
+
+#: ../functions/meta/meta-post.php:35
+msgid "Link URL"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:37
+msgid "Enter the url for your link format URL."
+msgstr ""
+
+#: ../functions/meta/meta-post.php:42
+msgid "Quote Author"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:44
+msgid "Enter the author of the quote."
+msgstr ""
+
+#: ../functions/meta/meta-post.php:49
+msgid "oEmbed URL"
+msgstr ""
+
+#: ../functions/meta/meta-post.php:51
+msgid ""
+"Enter in a URL that is compatible with WordPress's built-in oEmbed feature. "
+"Video, audio and status post formats make use of this field."
+msgstr ""
+
+#: ../functions/meta/meta-post.php:51 ../functions/widgets/widget-video.php:52
+msgid "Learn More"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:13
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:15
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts-simple.php:12
+msgid "GoodInc - Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts-simple.php:83
+#: ../functions/widgets/widget-featured-posts.php:95
+#: ../functions/widgets/widget-flickr.php:67
+#: ../functions/widgets/widget-video.php:44
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts-simple.php:88
+#: ../functions/widgets/widget-featured-posts.php:100
+msgid "Select a Category:"
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts-simple.php:91
+#: ../functions/widgets/widget-featured-posts.php:103
+msgid "All"
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts-simple.php:102
+#: ../functions/widgets/widget-featured-posts.php:114
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts-simple.php:106
+#: ../functions/widgets/widget-featured-posts.php:118
+msgid "Offset (the number of posts to skip):"
+msgstr ""
+
+#: ../functions/widgets/widget-featured-posts.php:13
+msgid "GoodInc - Recent Posts Slider"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:14
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:16
+msgid "GoodInc - Flickr Stream"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:72
+msgid "Flickr ID "
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:77
+msgid "Number:"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:21
+msgid "GoodInc - Video"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:50
+msgid "Video URL "
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:52
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:57
+msgid "Description"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:83
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: ../templates/authors.php:21
+msgid "contributors"
+msgstr ""
+
+#: ../templates/authors.php:40 ../templates/authors.php:46
+msgid "Posts by"
+msgstr ""
+
+#: ../templates/authors.php:50
+msgid "Website"
+msgstr ""
+
+#: ../templates/login.php:35
+msgid "Username"
+msgstr ""
+
+#: ../templates/login.php:36
+msgid "Password"
+msgstr ""
+
+#: ../templates/login.php:37
+msgid "Remember Me"
+msgstr ""
+
+#: ../templates/login.php:38
+msgid "Log In"
+msgstr ""
+
+#: ../templates/login.php:49
+msgid "You are now logged in as"
+msgstr ""
+
+#: ../templates/login.php:49
+msgid "Logout?"
+msgstr ""
+
+#: ../templates/sitemap.php:24
+msgid "Pages"
+msgstr ""
+
+#: ../templates/sitemap.php:45
+msgid "Categories"
+msgstr ""
+
+#: ../templates/sitemap.php:50 ../templates/sitemap.php:61
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../templates/sitemap.php:56
+msgid "Tags"
+msgstr ""

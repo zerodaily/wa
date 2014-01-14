@@ -1,0 +1,1217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Board\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-03 16:09-0800\n"
+"PO-Revision-Date: 2013-08-15 16:32+0100\n"
+"Last-Translator: Kevin Wilbrink - Sotam.nl <kevin@sotam.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "404 Error"
+msgstr "404 Fout"
+
+#: ../404.php:16
+msgid "Unfortunately the page you were trying to access does not exist."
+msgstr ""
+"Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun "
+"je er naar zoeken."
+
+#: ../archive.php:15 ../date.php:20 ../templates/authors.php:46
+msgid "articles"
+msgstr "artikelen"
+
+#: ../author-bio.php:15
+msgid "Written by "
+msgstr "Geschreven door"
+
+#: ../author-bio.php:19
+msgid "Read other posts by"
+msgstr "Lees andere berichten geschreven door"
+
+#: ../author-bio.php:23
+msgid "Website:"
+msgstr "Website:"
+
+#: ../author-bio.php:23 ../templates/authors.php:50
+msgid "Visit Website"
+msgstr "Bezoek Website"
+
+#: ../author.php:17
+msgid "Posts written by"
+msgstr "Berichten geschreven door"
+
+#: ../comments.php:24 ../content-audio.php:43 ../content-gallery.php:107
+#: ../content-image.php:60 ../content-video.php:49 ../content.php:59
+#: ../single.php:44
+msgid "0 Comments"
+msgstr "0 Reacties"
+
+#: ../comments.php:24 ../content-audio.php:43 ../content-gallery.php:107
+#: ../content-image.php:60 ../content-video.php:49 ../content.php:59
+#: ../single.php:44
+msgid "1 Comment"
+msgstr "1 Reactie"
+
+#: ../comments.php:24 ../content-audio.php:43 ../content-gallery.php:107
+#: ../content-image.php:60 ../content-video.php:49 ../content.php:59
+#: ../single.php:44
+msgid "% Comments"
+msgstr "% Reacties"
+
+#: ../comments.php:35
+msgid "Comment navigation"
+msgstr "Reactie navigatie"
+
+#: ../comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere Reacties"
+
+#: ../comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere Reacties &rarr;"
+
+#: ../comments.php:42
+msgid "Comments are closed."
+msgstr "Het is niet mogelijk een reactie achter te laten."
+
+#: ../comments.php:50
+msgid "Leave A Reply"
+msgstr "Laat een reactie achter"
+
+#: ../comments.php:51
+msgid "Cancel Reply"
+msgstr "Reactie Annuleren"
+
+#: ../comments.php:58
+msgid "Leave a Reply"
+msgstr "Laat een reactie achter"
+
+#: ../comments.php:59
+msgid "cancel reply"
+msgstr "reactie annuleren"
+
+#: ../content-homepage-slider.php:101
+msgid "read more"
+msgstr "lees verder"
+
+#: ../content-image.php:39 ../content-link.php:33 ../content.php:38
+msgid "View Post"
+msgstr "Bekijk Bericht"
+
+#: ../content-quote.php:17
+msgid "By"
+msgstr "Door"
+
+#: ../content-related-posts.php:67
+msgid "Related Articles"
+msgstr "Gerelateerde Artikelen"
+
+#: ../date.php:13 ../date.php:15 ../date.php:17
+msgid "Archive For"
+msgstr "Archief Voor"
+
+#: ../footer.php:38
+msgid "Copyright"
+msgstr "Auteursrechten"
+
+#: ../header.php:54
+msgid "Browse"
+msgstr "Bladeren"
+
+#: ../header.php:55
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../search.php:13
+msgid "Search Results For"
+msgstr "Zoek resultaten voor"
+
+#: ../search.php:16
+msgid "results"
+msgstr "resultaten"
+
+#: ../search.php:42
+msgid "There were no results found for that query. Please try again."
+msgstr ""
+"Er zijn geen resultaten gevonden voor die zoekopdracht. Probeer het opnieuw."
+
+#: ../searchform.php:10
+msgid "Type and hit enter to search..."
+msgstr "Type en druk op enter om te zoeken..."
+
+#: ../single.php:65
+msgid "visit website"
+msgstr "website bezoeken"
+
+#: ../single.php:92
+msgid "Previous"
+msgstr "Vorige"
+
+#: ../single.php:93
+msgid "Next"
+msgstr "Volgende"
+
+#: ../admin/classes/class.options_machine.php:556
+msgid "Last Backup : "
+msgstr "Laatste Backup:"
+
+#: ../admin/front-end/options.php:43 ../admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Alle veranderen bewaren"
+
+#: ../admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Opties Resetten"
+
+#: ../admin/functions/functions.options.php:28
+msgid "Custom Logo"
+msgstr "Aangepast Logo"
+
+#: ../admin/functions/functions.options.php:29
+msgid "Use this field to upload your custom logo for use in the theme header"
+msgstr ""
+"Gebruik dit veld om je eigen logo te uploaden en te gebruiken in de thema "
+"header"
+
+#: ../admin/functions/functions.options.php:36
+msgid "Footer Logo"
+msgstr "Voetregel (footer) Logo"
+
+#: ../admin/functions/functions.options.php:37
+msgid "Upload your custom logo for the footer area. Leave blank to disable."
+msgstr ""
+"Upload je eigen logo voor het voettekst gebied. Laat het leeg om deze optie "
+"uit te schakelen."
+
+#: ../admin/functions/functions.options.php:44
+msgid "Custom Favicon"
+msgstr "Aangepaste Favicon"
+
+#: ../admin/functions/functions.options.php:45
+msgid ""
+"Upload a 16px x 16px Png/Gif image that will represent your website's "
+"favicon."
+msgstr ""
+"Upload een 16px x 16px PNG / GIF afbeelding die gebruikt kan worden als "
+"favicon voor je website."
+
+#: ../admin/functions/functions.options.php:53
+msgid "Responsiveness"
+msgstr "Responsiviteit"
+
+#: ../admin/functions/functions.options.php:54
+msgid "Do you wish to enable or disable the responsive CSS for this theme?"
+msgstr "Wil je de responsieve CSS voor deze thema in- of uitschakelen?"
+
+#: ../admin/functions/functions.options.php:57
+#: ../admin/functions/functions.options.php:67
+#: ../admin/functions/functions.options.php:77
+#: ../admin/functions/functions.options.php:87
+#: ../admin/functions/functions.options.php:199
+#: ../admin/functions/functions.options.php:209
+#: ../admin/functions/functions.options.php:334
+#: ../admin/functions/functions.options.php:344
+#: ../admin/functions/functions.options.php:434
+#: ../admin/functions/functions.options.php:444
+#: ../admin/functions/functions.options.php:454
+#: ../admin/functions/functions.options.php:464
+msgid "Enable"
+msgstr "Inschakelen"
+
+#: ../admin/functions/functions.options.php:58
+#: ../admin/functions/functions.options.php:68
+#: ../admin/functions/functions.options.php:78
+#: ../admin/functions/functions.options.php:88
+#: ../admin/functions/functions.options.php:200
+#: ../admin/functions/functions.options.php:210
+#: ../admin/functions/functions.options.php:335
+#: ../admin/functions/functions.options.php:345
+#: ../admin/functions/functions.options.php:435
+#: ../admin/functions/functions.options.php:445
+#: ../admin/functions/functions.options.php:455
+#: ../admin/functions/functions.options.php:465
+msgid "Disable"
+msgstr "Uitschakelen"
+
+#: ../admin/functions/functions.options.php:63
+msgid "Fixed Navigation"
+msgstr "Vaste Navigatie"
+
+#: ../admin/functions/functions.options.php:64
+msgid "Do you wish the navigation to stay static when scrolling down the site?"
+msgstr "Wil je dat de navigatie statisch blijft, als je naar beneden scrolt?"
+
+#: ../admin/functions/functions.options.php:73
+msgid "Gallery Metabox"
+msgstr "Galerij Metabox"
+
+#: ../admin/functions/functions.options.php:74
+msgid ""
+"Do you wish to enable or disable the gallery metabox. This is the metabox "
+"that displays your post image attachments under the post editor."
+msgstr ""
+"Wil je de galerie metabox in- of uitschakelen. Dit is de metabox die getoond "
+"worden onder de post editor."
+
+#: ../admin/functions/functions.options.php:83
+msgid "Retina Support"
+msgstr "Retina Ondersteuning"
+
+#: ../admin/functions/functions.options.php:84
+msgid ""
+"Do you wish to enable or disable the built-in retina support? If using a "
+"caching system such as W3Total Cache or hosted on WPEngine, it is best to "
+"disable. When enabled this will create a second version of every cropped "
+"image that is 2x as large and save it on your server."
+msgstr ""
+"Wil je de ingebouwde retina ondersteuning in- of uitschakelen? Bij gebruik "
+"van een caching systeem zoals W3Total Cache of  een host zoals WPEngine, is "
+"het het beste om deze optie uit te schakelen. Wanneer ingeschakeld zal dit "
+"een tweede versie van elke bijgesneden afbeelding, die 2x zo groot is, maken "
+"en deze opslaan op de server."
+
+#: ../admin/functions/functions.options.php:99
+msgid "Highlight"
+msgstr "Markeren"
+
+#: ../admin/functions/functions.options.php:100
+#: ../admin/functions/functions.options.php:108
+#: ../admin/functions/functions.options.php:116
+#: ../admin/functions/functions.options.php:124
+#: ../admin/functions/functions.options.php:132
+#: ../admin/functions/functions.options.php:140
+#: ../admin/functions/functions.options.php:148
+#: ../admin/functions/functions.options.php:156
+#: ../admin/functions/functions.options.php:164
+#: ../admin/functions/functions.options.php:172
+#: ../admin/functions/functions.options.php:180
+msgid "Select a custom color."
+msgstr "Selecteer een aangepaste kleur."
+
+#: ../admin/functions/functions.options.php:107
+msgid "Body Background"
+msgstr "Body Achtergrond"
+
+#: ../admin/functions/functions.options.php:115
+msgid "Top Bar Background"
+msgstr "Top Bar Achtergrond"
+
+#: ../admin/functions/functions.options.php:123
+msgid "Top Bar Logo Color"
+msgstr "Top Bar Logo Kleur"
+
+#: ../admin/functions/functions.options.php:131
+msgid "Menu Background"
+msgstr "Menu Achtergrond"
+
+#: ../admin/functions/functions.options.php:139
+msgid "Menu Color"
+msgstr "Menu Kleur"
+
+#: ../admin/functions/functions.options.php:147
+msgid "Menu Hover & Active Color"
+msgstr "Menu Hover & Actief Kleur"
+
+#: ../admin/functions/functions.options.php:155
+msgid "Footer Bar Background"
+msgstr "Voettekst Bar Achtergrond"
+
+#: ../admin/functions/functions.options.php:163
+msgid "Footer Bar Color"
+msgstr "Voettekst Bar Kleur"
+
+#: ../admin/functions/functions.options.php:171
+msgid "Footer Background"
+msgstr "Voettekst Achtergrond"
+
+#: ../admin/functions/functions.options.php:179
+msgid "Footer Text Color"
+msgstr "Voettekst Tekst Kleur"
+
+#: ../admin/functions/functions.options.php:187
+msgid "Footer Padding"
+msgstr "Voettekst Vulling (Padding)"
+
+#: ../admin/functions/functions.options.php:188
+msgid "Enter your custom bottom padding for your footer."
+msgstr ""
+"Voer uw aangepaste bodem vulling (bottom-padding) in voor je voettekst."
+
+#: ../admin/functions/functions.options.php:195
+msgid "Menu Icon"
+msgstr "Menu Icoon"
+
+#: ../admin/functions/functions.options.php:196
+msgid "Do you wish to enable or disable the pin icon in the main menu?"
+msgstr "Wil je het \"pin\" icoon in- of uitschakelen in het hoofdmenu?"
+
+#: ../admin/functions/functions.options.php:205
+msgid "Main Search Icon"
+msgstr "Hoofd Zoeken Icoon"
+
+#: ../admin/functions/functions.options.php:206
+msgid "Do you wish to enable or disable the main search icon?"
+msgstr "Wil je de \"hoofd zoek\" icoon in- of uitschakelen?"
+
+#: ../admin/functions/functions.options.php:223
+msgid "Logo Font"
+msgstr "logo Lettertype"
+
+#: ../admin/functions/functions.options.php:224
+msgid "Select your desired font family for your logo."
+msgstr "Selecteer het gewenste lettertype voor je logo."
+
+#: ../admin/functions/functions.options.php:229
+#: ../admin/functions/functions.options.php:242
+#: ../admin/functions/functions.options.php:255
+#: ../admin/functions/functions.options.php:268
+msgid "Font Preview Text"
+msgstr "Lettertype Voorbeeld Tekst"
+
+#: ../admin/functions/functions.options.php:236
+msgid "Main Body Font"
+msgstr "Main Body Lettertype"
+
+#: ../admin/functions/functions.options.php:237
+msgid "Select your desired font family for your body text."
+msgstr "Selecteer het gewenste lettertype voor je body tekst."
+
+#: ../admin/functions/functions.options.php:249
+msgid "Menu Font"
+msgstr "Menu Lettertype"
+
+#: ../admin/functions/functions.options.php:250
+msgid "Select your desired font family for your main navigation menu."
+msgstr "Selecteer het gewenste lettertype voor je hoofd navigatiemenu."
+
+#: ../admin/functions/functions.options.php:262
+msgid "Headings Font"
+msgstr "Headings Lettertype"
+
+#: ../admin/functions/functions.options.php:263
+msgid "Select your desired font family for your headings."
+msgstr "Selecteer het gewenste lettertype voor de headings."
+
+#: ../admin/functions/functions.options.php:277
+msgid "Sliders"
+msgstr "Schuifregelaars"
+
+#: ../admin/functions/functions.options.php:285
+msgid "Image Slider"
+msgstr "Afbeelding Schuifregelaar"
+
+#: ../admin/functions/functions.options.php:291
+msgid "Slider Category"
+msgstr "Categorie Schuifregelaar"
+
+#: ../admin/functions/functions.options.php:292
+msgid "Select posts category for your homepage slider."
+msgstr "Selecteer een categorie voor je homepage diavoorstelling."
+
+#: ../admin/functions/functions.options.php:300
+#: ../admin/functions/functions.options.php:389
+msgid "Slides Count"
+msgstr "Dia Aantal"
+
+#: ../admin/functions/functions.options.php:301
+msgid "How many slides do you wish to display for the homepage slider?"
+msgstr "Hoeveel dia's wil je voor de homepage weergeven?"
+
+#: ../admin/functions/functions.options.php:308
+msgid "Exclude Slider Category From Homepage?"
+msgstr "Sluit Schuif Categorie Uit Van De Homepage?"
+
+#: ../admin/functions/functions.options.php:309
+msgid ""
+"Do you wish to exclude the category for the slider from the homepage recent "
+"posts area?"
+msgstr ""
+"Wil je de categorie uitsluiten voor de slider van de homepage recente "
+"berichten gebied?"
+
+#: ../admin/functions/functions.options.php:312
+#: ../admin/functions/functions.options.php:401
+msgid "Yes"
+msgstr "Ja"
+
+#: ../admin/functions/functions.options.php:313
+#: ../admin/functions/functions.options.php:402
+msgid "No"
+msgstr "Nee"
+
+#: ../admin/functions/functions.options.php:318
+msgid "Animation"
+msgstr "A"
+
+#: ../admin/functions/functions.options.php:319
+msgid "Select your desired slider animation."
+msgstr "Selecteer je gewenste schuif animatie."
+
+#: ../admin/functions/functions.options.php:330
+msgid "Auto Slideshow"
+msgstr "Auto Diavoorstelling"
+
+#: ../admin/functions/functions.options.php:331
+msgid "Do you wish to enable or disable the automatic slideshow"
+msgstr "Wil je de automatische diavoorstelling in- of uitschakelen"
+
+#: ../admin/functions/functions.options.php:340
+msgid "Randomize Slideshow"
+msgstr "Willekeurig Diavoorstelling"
+
+#: ../admin/functions/functions.options.php:341
+msgid "Do you wish to enable or disable random slide order."
+msgstr "Wil je de willekeurige dia volgorde in- of uitschakelen."
+
+#: ../admin/functions/functions.options.php:350
+msgid "Slideshow Speed"
+msgstr "Diavoorstelling Snelheid"
+
+#: ../admin/functions/functions.options.php:351
+msgid ""
+"Adjust the slideshow speed of your homepage slider. Time in milliseconds"
+msgstr ""
+"Pas de snelheid van de diavoorstelling van je homepage slider aan.Tijd in "
+"milliseconden"
+
+#: ../admin/functions/functions.options.php:361
+msgid "Slider Alternate"
+msgstr "Alternatieve Schuifregelaar"
+
+#: ../admin/functions/functions.options.php:362
+msgid ""
+"Use this field to insert a shortcode or other HTML to replace the default "
+"flexslider"
+msgstr ""
+"Gebruik dit veld om een shortcode of andere HTML toe te voegen om de "
+"standaard flexslider te vervangen"
+
+#: ../admin/functions/functions.options.php:374
+msgid "Carousel"
+msgstr "Carrousel"
+
+#: ../admin/functions/functions.options.php:380
+msgid "Carousel Category"
+msgstr "Carrousel Categorie"
+
+#: ../admin/functions/functions.options.php:381
+msgid ""
+"Select posts category for your homepage carousel. This category must have at "
+"least 3 or nothing will display."
+msgstr ""
+"Selecteer berichten categorie voor je homepage carrousel. Deze categorie "
+"moet minstens 3 berichten bevatten of er wordt niets weergegeven."
+
+#: ../admin/functions/functions.options.php:390
+msgid "How many slides do you wish to display for the homepage carousel?"
+msgstr "Hoeveel dia's wens je voor de homepage carrousel weer te geven?"
+
+#: ../admin/functions/functions.options.php:397
+msgid "Exclude Carousel Category From Homepage?"
+msgstr "Sluit Carousel Categorie Van Homepage Uit?"
+
+#: ../admin/functions/functions.options.php:398
+msgid ""
+"Do you wish to exclude the category for the carousel from the homepage "
+"recent posts area?"
+msgstr ""
+"Wil je de categorie uitsluiten voor de carrousel op de homepage recente "
+"berichten gebied?"
+
+#: ../admin/functions/functions.options.php:408
+msgid "Blog"
+msgstr "Blog"
+
+#: ../admin/functions/functions.options.php:413
+msgid "Pagination Style"
+msgstr "Paginering Stijl"
+
+#: ../admin/functions/functions.options.php:414
+msgid "What pagination style do you want for your homepage and archives"
+msgstr "Welke paginering stijl wil je voor je homepage en archieven gebruiken?"
+
+#: ../admin/functions/functions.options.php:422
+msgid "Excerpt Length"
+msgstr "Bericht Lengte (Excerpt)"
+
+#: ../admin/functions/functions.options.php:423
+msgid "Enter a custom excerpt width. Default is 60 (words)"
+msgstr ""
+"Voer een aangepaste fragment breedte in. Standaardwaarde is 60 (woorden)"
+
+#: ../admin/functions/functions.options.php:430
+msgid "Featured Images On Standard Format Posts?"
+msgstr "Gekenmerkte Afbeeldingen Op Standard Formaat Berichten?"
+
+#: ../admin/functions/functions.options.php:431
+msgid "Display featured images on single blog posts?"
+msgstr "Geef gekenmerkte afbeeldingen weer op blog berichten?"
+
+#: ../admin/functions/functions.options.php:440
+msgid "Author Bio"
+msgstr "Auteur Bio"
+
+#: ../admin/functions/functions.options.php:441
+msgid "Display author bio at the bottom of standard posts?"
+msgstr "Geef de auteur bio weer aan de onderkant van de standaard berichten?"
+
+#: ../admin/functions/functions.options.php:450
+msgid "Display Tags"
+msgstr "Toon Tags"
+
+#: ../admin/functions/functions.options.php:451
+msgid "Display current post tags at the bottom of standard posts?"
+msgstr ""
+"Geef de huidige berichten-tags aan de onderkant van de standaard berichten "
+"weer?"
+
+#: ../admin/functions/functions.options.php:460
+msgid "Related Posts"
+msgstr "Gerelateerde Berichten"
+
+#: ../admin/functions/functions.options.php:461
+msgid "Display related posts on standard posts?"
+msgstr "Gerelateerde berichten weergeven bij standaard berichten?"
+
+#: ../admin/functions/functions.options.php:472
+msgid "Social"
+msgstr "Social"
+
+#: ../admin/functions/functions.options.php:477
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../admin/functions/functions.options.php:478
+#: ../admin/functions/functions.options.php:486
+#: ../admin/functions/functions.options.php:494
+#: ../admin/functions/functions.options.php:502
+#: ../admin/functions/functions.options.php:510
+#: ../admin/functions/functions.options.php:518
+#: ../admin/functions/functions.options.php:526
+#: ../admin/functions/functions.options.php:534
+#: ../admin/functions/functions.options.php:542
+#: ../admin/functions/functions.options.php:550
+#: ../admin/functions/functions.options.php:558
+msgid "Enter the full URL to your social profile"
+msgstr "Voer de volledige URL in naar uw sociaal profiel"
+
+#: ../admin/functions/functions.options.php:485
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../admin/functions/functions.options.php:493
+#: ../functions/social-output.php:26
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: ../admin/functions/functions.options.php:501
+#: ../functions/social-output.php:30
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: ../admin/functions/functions.options.php:509
+#: ../functions/social-output.php:34
+msgid "Behance"
+msgstr "Behance"
+
+#: ../admin/functions/functions.options.php:517
+#: ../functions/social-output.php:42
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: ../admin/functions/functions.options.php:525
+msgid "Youtube"
+msgstr "Youtube"
+
+#: ../admin/functions/functions.options.php:533
+#: ../functions/social-output.php:50
+msgid "Forrst"
+msgstr "Forrst"
+
+#: ../admin/functions/functions.options.php:541
+#: ../functions/social-output.php:54
+msgid "Github"
+msgstr "Github"
+
+#: ../admin/functions/functions.options.php:549
+#: ../functions/social-output.php:58
+msgid "Instagram"
+msgstr "Instagram"
+
+#: ../admin/functions/functions.options.php:557
+msgid "RSS"
+msgstr "RSS"
+
+#: ../admin/functions/functions.options.php:568
+#: ../functions/theme-setup.php:21
+msgid "Footer"
+msgstr "Voettekst"
+
+#: ../admin/functions/functions.options.php:573
+msgid "Copyright Text"
+msgstr "Copyright Tekst"
+
+#: ../admin/functions/functions.options.php:574
+msgid ""
+"You can use the following shortcodes in your footer text: [wp-link] [theme-"
+"link] [loginout-link] [blog-title] [blog-link] [the-year]"
+msgstr ""
+"Je kunt de volgende shortcodes gebruiken in je voettekst: [wp-link] [theme-"
+"link] [loginout-link] [blog-title] [blog-link] [the-year]"
+
+#: ../admin/functions/functions.options.php:583
+msgid "Tracking"
+msgstr "Volgen"
+
+#: ../admin/functions/functions.options.php:587
+msgid "Tracking Code"
+msgstr "\"Volg\"-Code"
+
+#: ../admin/functions/functions.options.php:588
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+"Plaats hier je Google Analytics (of andere) \"volg\"-code. Dit zal worden "
+"toegevoegd aan de footer van de template."
+
+#: ../admin/functions/functions.options.php:597
+msgid "Backup"
+msgstr "Backup"
+
+#: ../admin/functions/functions.options.php:602
+msgid "Backup and Restore Options"
+msgstr "Backup en Herstel Opties"
+
+#: ../admin/functions/functions.options.php:606
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+"Je kunt de twee knoppen hieronder gebruiken om een backup van je huidige "
+"opties te maken en vervolgens weer terug te zetten (op een later tijdstip). "
+"Dit is handig als u wilt experimenteren met de opties, maar graag de oude "
+"instellingen wilt behouden voor het geval dat."
+
+#: ../admin/functions/functions.options.php:610
+msgid "Transfer Theme Options Data"
+msgstr "Theme Opties Data Overdragen"
+
+#: ../admin/functions/functions.options.php:614
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click "
+"\"Import Options\"."
+msgstr ""
+"Je kunt de opgeslagen opties tussen verschillende installaties overbrengen "
+"door de tekst te kopiëren in het tekstvak. Om gegevens uit een andere "
+"installatie te importeren, vervang de gegevens in het tekstvak en klik op "
+"\"Importeer Opties\"."
+
+#: ../functions/admin-columns.php:18
+msgid "Thumbnail"
+msgstr "Miniatuurafbeelding"
+
+#: ../functions/class-tgm-plugin-activation.php:155
+#: ../functions/recommend-plugins.php:86
+msgid "Install Required Plugins"
+msgstr "Installeer Vereiste Plugins"
+
+#: ../functions/class-tgm-plugin-activation.php:156
+#: ../functions/recommend-plugins.php:87
+msgid "Install Plugins"
+msgstr "Installeer Plugins"
+
+#: ../functions/class-tgm-plugin-activation.php:157
+#: ../functions/recommend-plugins.php:88
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installeren Plugin: %s"
+
+#: ../functions/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr "Er is iets misgegaan."
+
+#: ../functions/class-tgm-plugin-activation.php:169
+#: ../functions/recommend-plugins.php:100
+msgid "Return to Required Plugins Installer"
+msgstr "Terug naar Vereiste Plugins Installer"
+
+#: ../functions/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr "Keer terug naar het dashboard"
+
+#: ../functions/class-tgm-plugin-activation.php:171
+#: ../functions/class-tgm-plugin-activation.php:1840
+#: ../functions/recommend-plugins.php:101
+msgid "Plugin activated successfully."
+msgstr "Plugin succesvol geactiveerd."
+
+#: ../functions/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr "De volgende plugin is succesvol geactiveerd:"
+
+#: ../functions/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Alle plugins zijn geïnstalleerd en succesvol geactiveerd. %1$s"
+
+#: ../functions/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr "Negeer deze aankondiging"
+
+#: ../functions/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr "Externe Link"
+
+#: ../functions/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr "Privé Repository"
+
+#: ../functions/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr "Voorverpakte"
+
+#: ../functions/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: ../functions/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr "Vereist"
+
+#: ../functions/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr "Aanbevolen"
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr "Niet geïnstalleerd"
+
+#: ../functions/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr "Geïnstalleerd Maar Niet Geactiveerd"
+
+#: ../functions/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+"Geen plugins te installeren of te activeren. <a href=\"%1$s\" title=\"Keer "
+"terug naar het Dashboard\">Keer terug naar het Dashboard</a>"
+
+#: ../functions/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../functions/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr "Bron"
+
+#: ../functions/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr "Type"
+
+#: ../functions/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr "Status"
+
+#: ../functions/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr "Installeren"
+
+#: ../functions/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr "Activeren"
+
+#: ../functions/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr "Installatie pakket is niet beschikbaar."
+
+#: ../functions/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr "Downloaden installatiepakket van <span class=\"code\">%s</span>&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr "Uitpakken van het pakket&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr "Plugin installeren&#8230;"
+
+#: ../functions/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr "Plugin installatie mislukt."
+
+#: ../functions/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr "Plugin geïnstalleerd."
+
+#: ../functions/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr "Plugin activering mislukt."
+
+#: ../functions/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Het installatie- en activeringsproces begint. Dit proces kan een tijdje "
+"duren op sommige hosts, dus wees geduldig."
+
+#: ../functions/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s geïnstalleerd en succesvol geactiveerd."
+
+#: ../functions/class-tgm-plugin-activation.php:1950
+#: ../functions/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr "Details weergeven"
+
+#: ../functions/class-tgm-plugin-activation.php:1950
+#: ../functions/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr "Details verbergen"
+
+#: ../functions/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr "Alle installaties en activeringen zijn afgerond."
+
+#: ../functions/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren en Activeren Plugin %1$s (%2$d/%3$d)"
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Het installatieproces begint. Dit proces kan een tijdje duren op sommige "
+"hosts, dus wees geduldig."
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Er is een fout opgetreden tijdens het installeren van %1$s: <strong>%2$s</"
+"strong>."
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "De installatie van %1$s is mislukt."
+
+#: ../functions/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s met succes geïnstalleerd."
+
+#: ../functions/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr "Alle installaties zijn afgerond."
+
+#: ../functions/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installeren Plugin %1$s (%2$d/%3$d)"
+
+#: ../functions/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr "Keer terug naar het Dashboard"
+
+#: ../functions/comments-callback.php:24
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../functions/comments-callback.php:24 ../functions/comments-callback.php:49
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../functions/comments-callback.php:54
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is wachtende op goedkeuring."
+
+#: ../functions/comments-callback.php:62
+msgid "reply to comment"
+msgstr "Reageer op reactie"
+
+#: ../functions/excerpts.php:23
+msgid "continue reading"
+msgstr "verder lezen"
+
+#: ../functions/load-more.php:109 ../functions/load-more.php:159
+msgid "Load More"
+msgstr "Meer laden"
+
+#: ../functions/load-more.php:110
+msgid "Loading..."
+msgstr "Laden..."
+
+#: ../functions/pagination.php:68 ../functions/pagination.php:106
+msgid "Newer Posts"
+msgstr "Nieuwere Berichten"
+
+#: ../functions/pagination.php:71 ../functions/pagination.php:109
+msgid "Older Posts"
+msgstr "Oudere Berichten"
+
+#: ../functions/recommend-plugins.php:89
+msgid "Something went wrong with the plugin API."
+msgstr "Er ging iets mis met de plugin API."
+
+#: ../functions/recommend-plugins.php:102
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Alle plugins zijn geïnstalleerd en succesvol geactiveerd. %s"
+
+#: ../functions/social-output.php:18
+msgid "Follow Us"
+msgstr "Volg Ons"
+
+#: ../functions/social-output.php:22
+msgid "Facebook Us"
+msgstr "Facebook Ons"
+
+#: ../functions/social-output.php:38
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../functions/social-output.php:46
+msgid "Youtube Channel"
+msgstr "YouTube Kanaal"
+
+#: ../functions/social-output.php:62
+msgid "RSS Feed"
+msgstr "RSS Feed"
+
+#: ../functions/theme-setup.php:20
+msgid "Main"
+msgstr "Hoofd"
+
+#: ../functions/gallery-metabox/gallery-metabox.php:73
+msgid "Gallery Images"
+msgstr "Gallerij afbeeldingen"
+
+#: ../functions/gallery-metabox/gallery-metabox.php:140
+msgid "Edit Image"
+msgstr "Afbeelding bewerken"
+
+#: ../functions/gallery-metabox/gallery-metabox.php:143
+msgid "Remove Image"
+msgstr "Afbeelding Verwijderen"
+
+#: ../functions/gallery-metabox/gallery-metabox.php:172
+msgid "Manage Images"
+msgstr "Afbeeldingen Beheren"
+
+#: ../functions/gallery-metabox/gallery-metabox.php:178
+msgid "Refresh"
+msgstr "Verversen"
+
+#: ../functions/meta/meta-page.php:13
+msgid "Page Settings"
+msgstr "Pagina-instellingen"
+
+#: ../functions/meta/meta-page.php:19 ../functions/meta/meta-post.php:19
+msgid "Post Layout"
+msgstr "Bericht Layout"
+
+#: ../functions/meta/meta-page.php:21 ../functions/meta/meta-post.php:21
+msgid "Select your desired layout."
+msgstr "Selecteer je gewenste lay-out."
+
+#: ../functions/meta/meta-post.php:13
+msgid "Post Settings"
+msgstr "Bericht-instellingen"
+
+#: ../functions/meta/meta-post.php:27
+msgid "Media Size"
+msgstr "Media Formaat"
+
+#: ../functions/meta/meta-post.php:29
+msgid "Select your desired media size."
+msgstr "Selecteer je gewenste media formaat."
+
+#: ../functions/meta/meta-post.php:35
+msgid "Link URL"
+msgstr "Link URL"
+
+#: ../functions/meta/meta-post.php:37
+msgid "Enter the url for your link format URL."
+msgstr "Voer de URL in van je link formaat URL."
+
+#: ../functions/meta/meta-post.php:42
+msgid "Quote Author"
+msgstr "Quote Auteur"
+
+#: ../functions/meta/meta-post.php:44
+msgid "Enter the author of the quote."
+msgstr "Voer de auteur van het citaat in."
+
+#: ../functions/meta/meta-post.php:49
+msgid "oEmbed URL"
+msgstr "oEmbed URL"
+
+#: ../functions/meta/meta-post.php:51
+msgid ""
+"Enter in a URL that is compatible with WordPress's built-in oEmbed feature. "
+"Video, audio and status post formats make use of this field."
+msgstr ""
+"Voer in een video URL in, die compatibel is met WordPress's ingebouwde "
+"oEmbed functie. Video, audio en status berichten formaten maken gebruik van "
+"deze veld."
+
+#: ../functions/meta/meta-post.php:51 ../functions/widgets/widget-video.php:52
+msgid "Learn More"
+msgstr "Meer Info"
+
+#: ../functions/widgets/widget-areas.php:13
+msgid "Sidebar"
+msgstr "Zijbalk (Sidebar)"
+
+#: ../functions/widgets/widget-areas.php:15
+msgid "Widgets in this area are used on the main sidebar region."
+msgstr "Widgets op dit gebied worden gebruikt op de main-zijbalk regio."
+
+#: ../functions/widgets/widget-featured-posts-simple.php:12
+msgid "GoodInc - Recent Posts"
+msgstr "GoodInc - Recente Berichten"
+
+#: ../functions/widgets/widget-featured-posts-simple.php:75
+#: ../functions/widgets/widget-featured-posts.php:87
+#: ../functions/widgets/widget-flickr.php:67
+#: ../functions/widgets/widget-video.php:44
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../functions/widgets/widget-featured-posts-simple.php:80
+#: ../functions/widgets/widget-featured-posts.php:92
+msgid "Select a Category:"
+msgstr "Selecteer een Categorie:"
+
+#: ../functions/widgets/widget-featured-posts-simple.php:83
+#: ../functions/widgets/widget-featured-posts.php:95
+msgid "All"
+msgstr "Alles"
+
+#: ../functions/widgets/widget-featured-posts-simple.php:94
+#: ../functions/widgets/widget-featured-posts.php:106
+msgid "Number to Show:"
+msgstr "Nummer te Weergeven:"
+
+#: ../functions/widgets/widget-featured-posts-simple.php:98
+#: ../functions/widgets/widget-featured-posts.php:110
+msgid "Offset (the number of posts to skip):"
+msgstr "Offset (het aantal berichten om over te slaan):"
+
+#: ../functions/widgets/widget-featured-posts.php:13
+msgid "GoodInc - Recent Posts Slider"
+msgstr "GoodInc - Recente berichten schuifregelaar"
+
+#: ../functions/widgets/widget-flickr.php:14
+msgid "Pulls in images from your Flickr account."
+msgstr "Haalt afbeeldingen van je Flickr-account."
+
+#: ../functions/widgets/widget-flickr.php:16
+msgid "GoodInc - Flickr Stream"
+msgstr "GoodInc - Flickr Stream"
+
+#: ../functions/widgets/widget-flickr.php:72
+msgid "Flickr ID "
+msgstr "Flickr ID"
+
+#: ../functions/widgets/widget-flickr.php:77
+msgid "Number:"
+msgstr "Nummer:"
+
+#: ../functions/widgets/widget-video.php:21
+msgid "GoodInc - Video"
+msgstr "GoodInc - Video"
+
+#: ../functions/widgets/widget-video.php:50
+msgid "Video URL "
+msgstr "Video URL"
+
+#: ../functions/widgets/widget-video.php:52
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+"Voer in een video URL in, die compatibel is met WordPress's ingebouwde "
+"oEmbed functie."
+
+#: ../functions/widgets/widget-video.php:57
+msgid "Description"
+msgstr "Beschrijving"
+
+#: ../functions/widgets/widget-video.php:83
+msgid "You forgot to enter a video URL."
+msgstr "Je bent vergeten om een video URL in te voeren."
+
+#: ../templates/authors.php:21
+msgid "contributors"
+msgstr "bijdragers"
+
+#: ../templates/authors.php:40 ../templates/authors.php:46
+msgid "Posts by"
+msgstr "Berichten van"
+
+#: ../templates/authors.php:50
+msgid "Website"
+msgstr "Website"
+
+#: ../templates/login.php:35
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: ../templates/login.php:36
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: ../templates/login.php:37
+msgid "Remember Me"
+msgstr "Onthoudt mij"
+
+#: ../templates/login.php:38
+msgid "Log In"
+msgstr "Log In"
+
+#: ../templates/login.php:49
+msgid "You are now logged in as"
+msgstr "Je bent nu ingelogd als"
+
+#: ../templates/login.php:49
+msgid "Logout?"
+msgstr "Uitloggen?"
+
+#: ../templates/sitemap.php:24
+msgid "Pages"
+msgstr "Pagina's"
+
+#: ../templates/sitemap.php:45
+msgid "Categories"
+msgstr "Categorieën"
+
+#: ../templates/sitemap.php:50 ../templates/sitemap.php:61
+#, php-format
+msgid "View all posts in %s"
+msgstr "Bekijk alle berichten in %s"
+
+#: ../templates/sitemap.php:56
+msgid "Tags"
+msgstr "Tags"

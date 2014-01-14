@@ -1,0 +1,95 @@
+/*
+Theme Name:		GoodInc RTL CSS
+Description:	Adds support for languages written in a Right To Left (RTL) direction.
+Learn More:		http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+#top-bar-right { right: auto; left: 0; }
+#header-social { float: left; }
+#logo img { float: right; }
+
+#nav-extend-bg { right: 50%; left: auto; }
+
+#navigation { padding-left: 0; padding-right: 80px; background: #474747 url("images/nav-pin.png") 97% center no-repeat; }
+#navigation ul { float: right; }
+#navigation .nav-main > li { display: block; float: right; background: url("images/nav-divider.png") left center no-repeat; padding-left: 24px; margin-left: 24px; padding-right: 0; margin-right: 0; }
+#navigation .nav-main a { text-align: right; }
+.dropdown-nav ul { left: auto; right: 0; }
+.dropdown-nav ul ul { left: auto; right: 200px; }
+#navigation .nav-main ul:before { left: auto; right: 20px; }
+
+#header-search { left: 0; right: auto; }
+.main-searchbar input[type="search"] { background: #fff url("images/clock.png") 10px no-repeat; padding: 0 14px 0 40px; }
+
+.bx-viewport { direction: ltr; }
+.bx-viewport li, .posts-carousel-article { direction: rtl; }
+
+#featured-flexslider .text-caption { float: left; }
+#featured-flexslider .featured-flexslider-img { float: right; }
+
+#post.col { float: right; margin-left: 2%; }
+#sidebar { float: left; margin-left: 0; }
+
+#page-heading { border-left: none; border-right: 10px solid #f26c4f; }
+#archive-post-count { right: auto; left: 30px; }
+
+.post-entry-thumbnail-bottom { right: auto; left: 0; }
+.post-entry-thumbnail-bottom a { float: left; }
+.post-entry-date i, .post-entry-comments i { margin-right: 0; margin-left: 7px; }
+
+.quote-entry .icon-quote-left { position: absolute; top: 40px; left: 40px; color: #f3f3f3; font-size: 100px; z-index: 1; }
+
+.meta li { float: right; margin-right: 0; margin-left: 15px; }
+.meta li i { margin-right: 0;  margin-left: 10px; }
+
+#post-tags a { float: right; margin-right: 0; margin-left: 6px; }
+
+#author-image { float: right; width: 20%; }
+#author-bio { float: left; width: 80%; padding-left: 0; padding-right: 30px; }
+#author-bio-social-links a { float: right; margin-right: 0; margin-left: 6px; }
+
+.single-nav-left { float: right; text-align: right; padding-left: 30px; padding-right: 0; }
+.single-nav-right { float: left; text-align: left; padding-right: 30px; padding-left: 0; }
+.single-nav-right a { float: left; }
+.single-nav-left a { float: right; }
+.single-nav-left span i { margin-right: 0; margin-left: 10px; }
+.single-nav-right span i { margin-left: 0; margin-right: 10px; }
+
+#cancel-comment-reply-link { float: left; }
+
+#wpex-loginform-wrap .icon-unlock { right: auto; left: 40px; }
+
+.contributor-entry-footer li { float: right; margin-right: 0; margin-left: 30px; }
+.contributor-entry-footer li i { margin-right: 0;  margin-left: 10px; }
+
+.site-map-template-section a i { margin-right: 0; margin-left: 10px; }
+
+.flex-direction-nav .flex-prev { right: auto; left: 0; }
+.flex-direction-nav .flex-next { right: auto; left: 30px; }
+#featured-flexslider .flex-direction-nav .flex-prev { right: 30px; left: auto; }
+#featured-flexslider .flex-next { right: 0; left: auto; }
+#featured-flexslider .flex-control-nav li { margin: 0 5px 0 0; }
+
+#featured-flexslider .text-caption { border-left: 0; border-right: 10px solid #f26c4f; }
+#featured-flexslider .text-caption:before { display: block; content: ""; position: absolute; top: 35px; left: auto; right: 0; width: 0; height: 0; border-top: 14px solid transparent; border-bottom: 14px solid transparent; border-left: transparent; border-right: 14px solid #f26c4f; }
+
+#sidebar .tagcloud a { float: right; margin-right: 0; margin-left: 4px; }
+
+ul.page-numbers li { float: right; }
+
+#footer-logo { float: right; }
+.footer-nav-links { float: left; margin-left: 20px; }
+.footer-nav-links li { float: right; }
+
+.comment-details { margin-left: 0; margin-right: 85px; }
+.comment-details:before { content: "\f0da"; left: 0; right: -12px; text-shadow: 1px 1px 1px rgba(0,0,0,0.06);  }
+.comment-author { left: auto; right: 0; }
+
+@media only screen and (max-width: 959px) {
+	.wpex-responsive #search-responsive-toggle i { margin-right: 0; margin-left: 10px; }
+	.wpex-responsive #navigation #navigation-responsive-toggle { text-align: left; }
+	.wpex-responsive #navigation #navigation-responsive-toggle i { margin-right: 0; margin-left: 10px; }
+	.wpex-responsive #featured-flexslider .text-caption { border-right: none; }
+	.wpex-responsive #featured-flexslider .flex-control-nav { left: auto; right: 40px; }
+	.wpex-responsive .footer-nav-links { float: right; margin-right: 40px; margin-left: 0; }
+}
